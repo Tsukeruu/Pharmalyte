@@ -2,6 +2,7 @@
 **A project aimed to support pharmacists in their day-to-day projects**
   ## Impact:
   **Pharmacists often deal with drug compatibility, stability, and compounding. Knowing molecular properties helps answer:**
+  
   **Will this drug dissolve in water?**
 
   **Will it absorb well?**
