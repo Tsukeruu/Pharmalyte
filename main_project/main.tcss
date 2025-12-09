@@ -1,0 +1,135 @@
+Screen {
+  align: center middle;
+  border: round #f5c2e7;
+}
+
+SmilesScreen {
+  align: center middle;
+}
+
+PHscreen {
+  align: center middle;
+  border: round #f5c2e7;
+}
+
+
+#PHLabel_container_PHscreen {
+  height: auto;
+  text-align: center;
+  width: 120;
+  color: #f5c2e7;
+}
+
+#PHCONTAINER_LABEL {
+  color: #f5c2e7
+}
+
+#PHscreen_container {
+  background: transparent;
+  border: round #f5c2e7;
+  height: auto;
+  width: auto;
+}
+
+#smilesmain_container1 {
+  width: auto;
+  height: auto;
+  background: transparent;
+  border: round #f5c2e7;
+}
+
+#smilesplaceholder_container_label2 {
+  color: #f5c2e7;
+}
+
+#smilesabout_container_label1 {
+ color: #f5c2e7;
+ width: 80;
+ text-align: center;
+}
+
+#ABOUT_container1 {
+  width: auto;
+  height: auto;
+  border: round #c6a0f6;
+}
+
+#ABOUT_label1 {
+  width: auto;
+  color: #c6a0f6;
+  height: auto;
+  text-align: center;
+}
+
+Label {
+  text-style: bold;
+}
+
+Tabs {
+  dock: top;
+}
+
+#about_label {
+  color: #c6a0f6;
+  width: 100%;
+}
+
+#about_collapsible {
+  dock: bottom;
+}
+
+
+#PH_container1,
+#smiles_container1 {
+  border: round #c6a0f6;
+}
+
+#smiles_container1 {
+  width: auto;
+  height: auto;
+  align-horizontal: center;
+}
+
+#PH_container1 {
+  height: auto;
+  width: 50;
+}
+
+#PH_container_label1{
+  width: 100%; /*auto*/
+  height: auto;
+  color: #c6a0f6;
+  text-align: center;
+}
+#smiles_container_label1 {
+  height: auto; 
+  width: auto; /*auto*/
+  text-align: center;
+  color: #c6a0f6;
+}
+
+#smiles_container_button1,
+#PH_container_button1 {
+  height: auto;
+  width: auto;
+  text-style: bold;
+  background: #f5c2e7;
+  color: black;
+} 
+
+#smiles_container_button1:focus,
+#PH_container_button1:focus
+{ 
+  background: #c6a0f6;
+  color: black;
+  text-style: bold;
+}
+
+#PH_container_button1 {
+  offset-x: 90%;
+}
+
+#smiles_container_button1 {
+  offset-x: 90%;
+}
+
