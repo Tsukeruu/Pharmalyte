@@ -9,3 +9,8 @@
   ```python
     pip install -r requirements.txt
   ```
+  **Make👨‍🍳** *Make sure you're in the directory of the make file*:
+  ```
+    make install
+    make run
+  ```
