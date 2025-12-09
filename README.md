@@ -3,15 +3,15 @@
   ## Impact💥:
   **Pharmacists often deal with drug compatibility, stability, and compounding. Knowing molecular properties helps answer:**
   
-  **Will this drug dissolve in water?**
+  **Will this drug dissolve in water?🧪**
 
-  **Will it absorb well?**
+  **Will it absorb well?🧬**
 
-  **Is it acidic or basic?**
+  **Is it acidic or basic?🧪**
 
-  **Is it stable when mixed with ethanol or propylene glycol?**
+  **Is it stable when mixed with ethanol or propylene glycol?🧪**
 
-  **Is it safe to mix with another compound?**
+  **Is it safe to mix with another compound?☣️**
 
   **This eliminates the need to search different databases *manually*.**
   
