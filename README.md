@@ -1,4 +1,4 @@
-# Pharmalyte
+# Pharmalyte💊⚕️
 **A project aimed to support pharmacists in their day-to-day projects**
   ## Impact💥:
   **Pharmacists often deal with drug compatibility, stability, and compounding. Knowing molecular properties helps answer:**
@@ -18,7 +18,7 @@
   ##   How to benefit from it:
   ###   If you're trying to be a pharmacist and want to apply day to day chemistry into your life, this project is perfect for YOU as it deals with molecular data and ph, aswell as visualizes it by generating an image of each molecule provided (in smiles format 😊)
   
-  ## Installation:
+  ## Installation🛠️:
   **Clone the project**
   ```
     git clone https://github.com/Tsukeruu/Pharmalyte/
@@ -33,7 +33,7 @@
   ```
     make install
   ```
-## Execution
+## Execution🎯
 **In make👨‍🍳**
 ```
   make run (cloned project directory!)
@@ -45,7 +45,7 @@
   python main.py
 ```
 
-## Cleaning
+## Cleaning🧹
 **In make👨‍🍳**
 ```
   make clean (cloned project directory!)
@@ -55,5 +55,5 @@
 ```
   rm -rf __pycache__
 ```
-## Issues?:
+## Issues?⚠️:
 **Please submit an issue in the github repo/project and ill gladly review it and debug any code or perhaps agree with your opinion**
