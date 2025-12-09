@@ -16,5 +16,15 @@
   **Make👨‍🍳** *Make sure you're in the directory of the make file*:
   ```
     make install
-    make run
   ```
+## Execution
+**In make**
+```
+  make run (cloned project directory!)
+```
+
+**In bash**
+```bash
+  cd main_project
+  python main.py
+```
