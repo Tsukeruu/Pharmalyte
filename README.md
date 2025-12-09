@@ -51,7 +51,7 @@
   make clean (cloned project directory!)
 ```
 
-**In bash**
+**In bash🐚**
 ```
   rm -rf __pycache__
 ```
