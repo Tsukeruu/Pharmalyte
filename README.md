@@ -25,7 +25,7 @@
   ```
   **Cd into the project directory and follow the steps below, install according to the method benefiting you**
   
-  **Python 🐍 and bash**:
+  **Python 🐍 and bash🐚**:
   ```python
     pip install -r requirements.txt
   ```
@@ -34,13 +34,24 @@
     make install
   ```
 ## Execution
-**In make**
+**In make👨‍🍳**
 ```
   make run (cloned project directory!)
 ```
 
-**In bash**
+**In bash🐚**
 ```bash
   cd main_project
   python main.py
+```
+
+## Cleaning
+**In make👨‍🍳**
+```
+  make clean (cloned project directory!)
+```
+
+**In bash**
+```
+  rm -rf __pycache__
 ```
