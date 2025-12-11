@@ -56,4 +56,4 @@
   rm -rf __pycache__
 ```
 ## Issues?⚠️:
-**Please submit an issue in the github repo/project and ill gladly review it and debug any code or perhaps agree with your opinion**
+**Please submit an issue in the github repo/project and ill gladly review it and attempt to debug your issue.**
