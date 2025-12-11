@@ -189,9 +189,7 @@ This system calculates PH and explains the buffer capacity, which is quite stron
         )
         yield Container(
             Label("""
-This project was built by Laith aljundi, Adam zuraik and omar arafah, all three worked together to provide you
-with this wonderful program that pharmacists use all together for specific molecules and medicines.
-Special credits to ameeer al shobaki for the ideas.
+This project was built by bart, with this wonderful program, pharmacists can unite together to solve a specific problem all together for specific molecules and medicines.
             """,id="ABOUT_label1"),
             id="ABOUT_container1"
         )
