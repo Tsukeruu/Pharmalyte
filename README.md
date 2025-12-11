@@ -25,8 +25,8 @@
   ```
   **Cd into the project directory and follow the steps below, install according to the method benefiting you**
   
-  **Python 🐍 and bash🐚**:
-  ```python
+  **pip 🐍 and bash🐚**:
+  ```bash
     pip install -r requirements.txt
   ```
   **Make👨‍🍳** *Make sure you're in the directory of the make file*:
